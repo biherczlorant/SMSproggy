@@ -1,2 +1,2 @@
 # SMSproggy
-**A PDF állományban találhatóak a feladatok. Az ötöst nem csináltam meg.**
+**A PDF állományban található a feladatleírás. Az ötöst nem csináltam meg.**
